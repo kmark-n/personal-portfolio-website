@@ -1,0 +1,62 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/python_logo.jpg",
+      "title": "Python (Flask & Django)",
+      "description": "I possess practical experience with Flask, a flexible and lightweight python web framework. My journey extends beyond Flask as i am actively exploring and advancing my skills with Django a robust full-stack web framework."
+    },
+    {
+      "id": "2",
+      "src": "./img/react_css_html.png",
+      "title": "HTML, CSS, Bootstrap, ReactJS",
+      "description": "I have a solid grasp of HTML, CSS and Bootstrap, combined with my foundational understanding of React."
+    },
+    {
+      "id": "3",
+      "src": "./img/MySQL.png",
+      "title": "MySQL",
+      "description": "I have an understanding of database management using MySQL and i am well versed in Structured Query Language(SQL)."
+    },
+    {
+      "id": "4",
+      "src": "./img/git_vcs.png",
+      "title": "Version Control System",
+      "description": "I possess a strong command of Git, a leading version control system crucial for collaborative and efficient software development."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/mc_index.png",
+      "title": "Job Web app(Mark Careers)",
+      "description": "Developed and launched a dynamic, database-driven jobs website using Flask, HTML, CSS, and Bootstrap, seamlessly connected to a MySQL database.",
+      "view": "View In Github",
+      "link": "https://github.com/kmark-n/mark_careers_website_v3"
+    },
+    {
+      "id": "2",
+      "src": "./img/Ghub-finder.png",
+      "title": "Github Finder App",
+      "description": "An app that allows fetching of github user profiles through AJAX requests.",
+      "view": "View In Github",
+      "link": "https://github.com/kmark-n/Github_Finder_App"
+    },
+    {
+      "id": "3",
+      "src": "./img/Screenshot (133).png",
+      "title": "Snake game",
+      "description": "I created a classic Snake Game using Python and Pygame, a popular game development library. The game features a snake that grows longer as it consumes apples, while avoiding collisions with itself.",
+      "view": "View In Github",
+      "link": "https://github.com/kmark-n/snake_game"
+    },
+    {
+      "id": "4",
+      "src": "./img/in-progress.png",
+      "title": "Sawahost App",
+      "description": "A hosting app for static websites through Pulumi's open source infrastructure.(Still in progress)",
+      "view": "View In Github",
+      "link": "https://github.com/kmark-n/sawahost_app"
+    }
+  ]
+}
