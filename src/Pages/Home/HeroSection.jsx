@@ -5,15 +5,13 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Mark</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color" style={{ fontsize: '1.8rem'}}>
+            <span className="hero--section-title--color" style={{ fontsize: '2rem'}}>
               Software Developer
             </span>{" "}
-            <span style={{ color: '#fff' }}>|</span>
+            <span style={{ color: '#000' }}>|</span>
             <br />
-            <span style={{ fontSize: '2rem' }}>
-              Machine Learning
-              <br />
-              Enthusiast
+            <span style={{ fontSize: '1.8rem' }}>
+              Machine Learning Enthusiast
             </span> 
           </h1>
           <p className="hero--section-description">
