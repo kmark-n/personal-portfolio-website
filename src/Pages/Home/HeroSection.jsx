@@ -8,9 +8,8 @@ export default function HeroSection() {
             <span className="hero--section-title--color" style={{ fontsize: '2rem'}}>
               Software Developer
             </span>{" "}
-            <span style={{ color: '#000' }}>|</span>
-            <br />
-            <span style={{ fontSize: '1.8rem' }}>
+            <span style={{ color: '#000' }}>|</span>{" "}
+            <span style={{ fontSize: '2rem' }}>
               Machine Learning Enthusiast
             </span> 
           </h1>
