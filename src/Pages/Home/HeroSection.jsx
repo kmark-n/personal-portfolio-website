@@ -14,12 +14,11 @@ export default function HeroSection() {
             </span> 
           </h1>
           <p className="hero--section-description">
-            I am currently an IT major who's not only passionate about <br/>
-            software engineering but also i have a great desire to solve <br/>
-            complex problems through technology.
+            I’m driven by a passion for harnessing technology to tackle real-world problems through AI and software development. 
+            With expertise in web, mobile, and AI-powered applications, I specialize in crafting solutions that make a difference. 
+            Ready to collaborate? Let’s create something extraordinary together!
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
       </div>
       <div className="hero--section--img">
         <img src="./img/my_image.jpg" alt="Hero Section" />
