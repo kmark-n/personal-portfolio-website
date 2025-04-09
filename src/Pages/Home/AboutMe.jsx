@@ -9,9 +9,8 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            From a 5-year stint as a sole proprietor in retail to embracing
-            the world of technology, my journey is a testament to fate and perseverance.
-            Encouraged by computer science friends during my struggling business days, I transitioned into software engineering.
+            From a 5-year run as a sole proprietor in retail to diving into technology, my journey blends fate, grit, and a pivot inspired by computer science friends during tough business times. 
+            That spark led me to software engineering and machine learning.
           </p>
           <p className="hero--section-description">
             At 26, I'm an evening student at Mount Kenya University, dedicating

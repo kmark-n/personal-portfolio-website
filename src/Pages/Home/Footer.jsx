@@ -59,7 +59,7 @@ function Footer() {
                 to="Contact"
                 className="text-md"
               >
-                Contact
+                Get In Touch
               </Link>
             </li>
           </ul>

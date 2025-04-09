@@ -9,8 +9,8 @@
     {
       "id": "2",
       "src": "./img/react_css_html.png",
-      "title": "HTML, CSS, Bootstrap, ReactJS",
-      "description": "I have a solid grasp of HTML, CSS and Bootstrap, combined with my foundational understanding of React."
+      "title": "HTML, CSS, Bootstrap, ReactJS & React Native",
+      "description": "I have a solid grasp of HTML, CSS and Bootstrap, combined with my foundational understanding of React and React Native."
     },
     {
       "id": "3",
@@ -23,11 +23,63 @@
       "src": "./img/git_vcs.png",
       "title": "Version Control System",
       "description": "I possess a strong command of Git, a leading version control system crucial for collaborative and efficient software development."
+    },
+    {
+      "id": "5",
+      "src": "./img/fastAPI.png",
+      "title": "FastAPI",
+      "description": "I have practical experience building high-performance APIs with FastAPI, a modern Python framework. I’ve leveraged its speed and asynchronous capabilities to deploy machine learning models, such as in my project *PotatoDoc*, enhancing real-time agricultural solutions."
+    },
+    {
+      "id": "6",
+      "src": "./img/TensorFlow.png",
+      "title": "TensorFlow",
+      "description": "I have solid experience with TensorFlow, a leading machine learning framework in Python. In my project *PotatoDoc*, I built a CNN-based deep learning model with 98% accuracy for agricultural disease detection, sharpening my skills in convolutional networks and model deployment."
+    },
+    {
+      "id": "7",
+      "src": "./img/pandas.png",
+      "title": "Pandas",
+      "description": "I have strong experience with Pandas, a powerful Python library for data analysis. In my project *RentEstimator Nairobi*, I used Pandas to preprocess and analyze real estate datasets, enabling a machine learning model with 91% accuracy, refining my skills in data manipulation and exploration."
+    },
+    {
+      "id": "8",
+      "src": "./img/JupyterNotebook.png",
+      "title": "Jupyter Notebook",
+      "description": "I am proficient in Jupyter Notebook, an interactive Python environment for data science.I used it to develop and test models for *PotatoDoc* and *RentEstimator Nairobi*, streamlining my workflow for data visualization and machine learning experimentation."
+    },
+    {
+      "id": "9",
+      "src": "./img/Scikit_learn.png",
+      "title": "Scikit-learn",
+      "description": "I have robust experience with Scikit-learn, a versatile Python library for machine learning. In my project *RentEstimator Nairobi*, I utilized Scikit-learn’s Decision Tree Regression to build a model with 91% accuracy, enhancing my skills in predictive modeling and data analysis."
+    },
+    {
+      "id": "10",
+      "src": "./img/docker_logo.png",
+      "title": "Docker",
+      "description": "I have practical experience with Docker, containerizing applications for efficient deployment. In my project *Potato Doc*, I used Docker to package and serve a TensorFlow model with TF Serving, ensuring scalability and consistency across environments."
     }
-  ],
+],
   "portfolio": [
     {
       "id": "1",
+      "src": "./img/PotatoDoc.png",
+      "title": "Potato Doc",
+      "description": "Developed an AI app to detect potato diseases (98% accuracy) using TensorFlow for data preprocessing and CNN model building. Optimized with quantization, served via TF Serving and Docker with MySQL (SQLAlchemy) backend, and deployed on GCP with a React Native/React.js(for the web app) front-end.",
+      "view": "View In Github",
+      "link": "https://github.com/kmark-n/Potato-Doc"
+    },
+    {
+      "id": "2",
+      "src": "./img/rent_estimator.png",
+      "title": "RentEstimator Nairobi",
+      "description": "Developed a machine learning web app with Flask, React.js, and MySQL, using Pandas and Scikit-learn’s Decision Tree Regression (91% accuracy) to predict Nairobi rental prices.",
+      "view": "View In Github",
+      "link": "https://github.com/kmark-n/RentEstimator_Nairobi"
+    },
+    {
+      "id": "3",
       "src": "./img/mc_index.png",
       "title": "Job Web app(Mark Careers)",
       "description": "Developed and launched a dynamic, database-driven jobs website using Flask, HTML, CSS, and Bootstrap, seamlessly connected to a MySQL database.",
@@ -35,7 +87,7 @@
       "link": "https://github.com/kmark-n/mark_careers_website_v3"
     },
     {
-      "id": "2",
+      "id": "4",
       "src": "./img/Ghub-finder.png",
       "title": "Github Finder App",
       "description": "An app that allows fetching of github user profiles through AJAX requests.",
@@ -43,20 +95,12 @@
       "link": "https://github.com/kmark-n/Github_Finder_App"
     },
     {
-      "id": "3",
+      "id": "5",
       "src": "./img/Screenshot (133).png",
       "title": "Snake game",
       "description": "I created a classic Snake Game using Python and Pygame, a popular game development library. The game features a snake that grows longer as it consumes apples, while avoiding collisions with itself.",
       "view": "View In Github",
       "link": "https://github.com/kmark-n/snake_game"
-    },
-    {
-      "id": "4",
-      "src": "./img/in-progress.png",
-      "title": "Sawahost App",
-      "description": "A hosting app for static websites through Pulumi's open source infrastructure.(Still in progress)",
-      "view": "View In Github",
-      "link": "https://github.com/kmark-n/sawahost_app"
     }
   ]
 }
