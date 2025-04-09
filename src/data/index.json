@@ -59,7 +59,52 @@
       "src": "./img/docker_logo.png",
       "title": "Docker",
       "description": "I have practical experience with Docker, containerizing applications for efficient deployment. In my project *Potato Doc*, I used Docker to package and serve a TensorFlow model with TF Serving, ensuring scalability and consistency across environments."
+    },
+    {
+      "id": "11",
+      "src": "./img/GCP.png",
+      "title": "Google Cloud Platform",
+      "description": "I have hands-on experience with Google Cloud Platform (GCP), deploying applications and managing cloud resources. In my project *Potato Doc*, I utilized GCP for hosting a machine learning model, enhancing my skills in cloud computing and scalable application deployment."
+    },
+    {
+      "id": "12",
+      "src": "./img/deep_learning.png",
+      "title": "Deep Learning",
+      "description": "I have a solid foundation in deep learning, particularly with TensorFlow. In my project *Potato Doc*, I built a CNN model achieving 98% accuracy for potato disease detection, enhancing my skills in neural networks and model optimization."
+    },
+
+    {
+      "id": "13",
+      "src": "./img/Deep_Q-learning.png",
+      "title": "Deep Q-Learning",
+      "description": "Applied Deep Q-Learning to train an AI agent for the classic Snake game in my SnakeAI project. Gained practical experience in reinforcement learning concepts such as exploration vs. exploitation, reward maximization, experience replay, and target Q-value updates."
+    },
+    {
+      "id": "14",
+      "src": "./img/pytorch.png",
+      "title": "PyTorch",
+      "description": "Utilized PyTorch to build and train a neural network for action prediction in a reinforcement learning setting. Designed and optimized a multi-layer feedforward network to estimate Q-values, enhancing my skills in model training, loss functions, and backpropagation."
+    },
+    {
+      "id": "15",
+      "src": "./img/fastAPI.png",
+      "title": "FastAPI",
+      "description": "I have practical experience building high-performance APIs with FastAPI, a modern Python framework. I’ve leveraged its speed and asynchronous capabilities to deploy machine learning models, such as in my project *PotatoDoc*, enhancing real-time agricultural solutions."
+    },
+      
+    {
+      "id": "16",
+      "src": "./img/matplotlib.png",
+      "title": "Matplotlib",
+      "description": "Employed Matplotlib to visualize training progress, including real-time plotting of scores and average performance over episodes. These visualizations were key to tracking the agent’s learning curve and diagnosing model behavior."
+    },
+    {
+      "id": "17",
+      "src": "./img/pygame_logo.png",
+      "title": "Pygame",
+      "description": "Used Pygame to simulate a dynamic game environment for training and evaluating a Snake-playing AI agent. Created real-time interactions, managed game logic, and integrated it seamlessly with the learning loop to support continuous agent learning."
     }
+
 ],
   "portfolio": [
     {
@@ -97,10 +142,10 @@
     {
       "id": "5",
       "src": "./img/Screenshot (133).png",
-      "title": "Snake game",
-      "description": "I created a classic Snake Game using Python and Pygame, a popular game development library. The game features a snake that grows longer as it consumes apples, while avoiding collisions with itself.",
+      "title": "Snake game (Deep Q-Learning)",
+      "description": "I developed a Snake Game using Python and Pygame, implementing Deep Q-Learning for the AI agent. The agent learns to play the game by maximizing rewards through reinforcement learning.",
       "view": "View In Github",
-      "link": "https://github.com/kmark-n/snake_game"
+      "link": "https://github.com/kmark-n/snake-pygame"
     }
   ]
 }
